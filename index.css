@@ -1,0 +1,22 @@
+html{
+  font-size:16px;
+}
+*{
+  box-sizing:border-box;
+  border: 2px solid brown;
+  padding:.5rem;  
+}
+
+.noBorder{
+  border:none;
+}
+.noPadding{
+  padding:0;
+}
+html, body{
+  border:none;
+}
+main{
+  width:50rem;  
+  margin: auto;  
+}
